@@ -31,7 +31,8 @@ The interface focuses on visual storytelling, usability, immersive presentation 
 
 ## 7. Prototype
 
-[Explore the Interactive Prototype](PASTE_YOUR_FIGMA_LINK_HERE)
+[Explore the Interactive Prototype]
+https://www.figma.com/make/TQNgO8flvScdVjTMy98qr9/Build-DAASTAAN-Heritage-Experience?t=mD7c8h72OkdYSlkG-1&preview-route=%2F%23screen-2
 
 ## 8. Project Status
 
